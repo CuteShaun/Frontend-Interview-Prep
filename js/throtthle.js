@@ -9,7 +9,7 @@ export default function throttle(func, delay) {
       func.apply(this, args);
       wait = true;
       setTimeout(() => {
-        wailt = false;
+        wait = false;
       }, delay)
     }
 }
