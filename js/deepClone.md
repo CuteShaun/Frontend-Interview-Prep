@@ -1,6 +1,6 @@
-# Deep Clone
+# Deep clone
 
-## JSON-Based Approach
+## JSON-based approach
 
 ```javascript
 // Example input: { role: { user: 'John' } } or { foo: [{ bar: 'baz' }] }
@@ -10,7 +10,7 @@ export default function deepClone(value) {
 }
 ```
 
-## Recursive Approach
+## Recursive approach
 
 ```javascript
 //Sometimes, the interviewer can't allow us to use JSON approach so we can try the recursive approach:
