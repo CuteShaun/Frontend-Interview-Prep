@@ -1,4 +1,4 @@
-# Deep Clone Function in JavaScript
+# Deep Clone
 
 ## JSON-Based Approach
 
@@ -13,7 +13,7 @@ export default function deepClone(value) {
 ## Recursive Approach
 
 ```javascript
-//Sometimes interviewer can't allow us to use JSON approach, so we can try recursive approach:
+//Sometimes, the interviewer can't allow us to use JSON approach so we can try the recursive approach:
 
 export default function deepClone(value) {
     if (typeof value !== 'object' || value === null) {
