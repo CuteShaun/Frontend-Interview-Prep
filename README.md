@@ -27,10 +27,10 @@ Here’s how you can help:
 
 ### Steps to Contribute
 
-1. Fork the repository.
-2. Clone, commit, and push your changes.
-3. Create a pull request (PR) and describe the changes you've made.
-4. Wait for approval from maintainers (me).
+- Fork the repository.
+- Clone, commit, and push your changes.
+- Create a pull request (PR) and describe the changes you've made.
+- Wait for approval from maintainers (me).
 
 Please ensure your PR has a clear and detailed explanation of what has been changed or added.
 
