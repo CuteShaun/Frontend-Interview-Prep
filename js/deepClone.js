@@ -4,7 +4,7 @@ export default function deepClone(value) {
     return JSON.parse(JSON.stringify(value));
 }
 
-//If it's not allowed to use, we can use recursion approach:
+//If it's not allowed to use, we can use recursive approach:
 
 export default function deepClone(value) {
     if (typeof value !== 'object' || value === null) {
