@@ -10,18 +10,17 @@ Welcome to the **Frontend Engineer Interview Prep Guide**! 🚀 This repository 
 
 ## 🤝 How to Contribute
 
-We welcome contributions from everyone! Here’s how you can help:
+Here’s how you can help:
 
 1. **Add New Content:**
-   - Create a new folder for a topic (e.g., `angular/`, `vue/`) and add your resources.
-   - Contribute theoretical questions, code examples, or explanations to existing folders.
+   - Create folders (e.g., vue/, angular/) with fresh content.
+   - Share interview questions, snippets, or pro tips.
 
 2. **Improve Existing Content:**
-   - Enhance explanations or provide alternate solutions.
-   - Fix typos, improve formatting, or restructure for clarity.
-
+   - Rewrite, restructure, or fix typos to make content shine.
+     
 3. **Algorithm Contributions:**
-   - Write algorithms in JavaScript and ensure they are clear, efficient, and well-documented.
+   - Link useful blogs, tutorials, or cheat sheets.
    
 4. **Contribute Your Knowledge:**
    - Share resources and materials you found useful, such as blog posts, tutorials, or other valuable links.
@@ -37,19 +36,16 @@ Please ensure your PR has a clear and detailed explanation of what has been chan
 
 ## 📚 Contribution Guidelines
 
-- Keep explanations clear and concise.
-- Follow the existing directory structure.
-- For algorithms:
-  - Use JavaScript.
-  - Include comments explaining your code.
-- Use Markdown for theoretical questions and answers.
-- Respect others' contributions.
+- Be clear, and concise, please use Markdown when possible.
+- Keep files tidy or create new folders if needed.
+- Algorithms? Add comments, explain logic, and keep it readable.
+- Respect everyone’s contributions.
 
 ## ⭐ Star the Repo
-If you find this guide helpful, please consider starring the repo to show your support!
+If you find this guide helpful, please start the repo to show your support!
 
 ## 📬 Feedback
-Have suggestions or ideas to improve this guide? Open an issue or join the discussions section!
+Do you have suggestions or ideas to improve this guide? Open an issue or join the discussions section!
 
 ---
 
